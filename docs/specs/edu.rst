@@ -16,6 +16,9 @@ The devices behaves very similar to the PCI bridge present in the COMBO6 cards
 developed under the Liberouter wings. Both PCI device ID and PCI space is
 inherited from that device.
 
+For a more realistic educational device with PCI Express, MSI-X and
+descriptor-ring DMA, see :doc:`edu2`.
+
 Command line switches
 ---------------------
 
